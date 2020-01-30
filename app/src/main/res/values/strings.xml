@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">BlazeFire</string>
+    <string name="app_name">Blaze</string>
+    <string name="sign_up_Username">Username</string>
+    <string name="sign_up_Password">Password</string>
+    <string name="sign_up_NextButton">Next</string>
+    <string name="sign_up_Cancel">Cancel</string>
+    <string name="sign_up_PasswordError">Password must contain at least 8 characters pls</string>
+    <string name="profile_NavBar">Profile</string>
+    <string name="tutorial_NavBar">Tutorial</string>
+    <string name="community_NavBar">Community</string>
+    <string name="alarm_NavBar">Alarm</string>
+
+
 </resources>

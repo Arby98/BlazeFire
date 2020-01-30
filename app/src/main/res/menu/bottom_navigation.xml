@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_tutorial"
+        android:title="@string/tutorial_NavBar"
+        android:icon="@drawable/nav_tutorial" />
+    <item android:id="@+id/action_alarm"
+        android:title="@string/alarm_NavBar"
+        android:icon="@drawable/nav_alarm" />
+    <item android:id="@+id/action_community"
+        android:title="@string/community_NavBar"
+        android:icon="@drawable/nav_community" />
+    <item android:id="@+id/action_profile"
+        android:title="@string/profile_NavBar"
+        android:icon="@drawable/nav_profile" />
+
+</menu>
